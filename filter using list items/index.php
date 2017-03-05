@@ -15,7 +15,7 @@ include('config/connect.php');
     <body>
         <nav>
           <div class="nav-wrapper container">
-             Filter data using list
+             Filter data using list.
           </div>
         </nav>    
      <div class="container">
